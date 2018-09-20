@@ -7,6 +7,9 @@ contributor:
     birthdate: 1881
     gutenberg_agent_id: '47166'
     url: http://www.gutenberg.org/2009/agents/47166
+covers:
+- cover_type: archival
+  image_path: 53002-h/images/cover.jpg
 creator:
   author:
     agent_name: Porter, Peter A. (Peter Augustus)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '35573'
     url: http://www.gutenberg.org/2009/agents/35573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53002#A-Legend-of-Goat-Island
 gutenberg_issued: '2016-09-07'
 gutenberg_type: Text
 identifiers:
